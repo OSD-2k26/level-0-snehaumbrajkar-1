@@ -3,7 +3,7 @@
 Before the journey begins,  
 prove you can leave a mark.
 
-Change **anything** in this scroll.  
+Change OSD in this scroll.  
 Even a single dot is enough.
 
 Seal it with a commit,  
